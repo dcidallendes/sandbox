@@ -1,7 +1,6 @@
 [
-  ["Hoja uno A"],
   [
-    ["Hoja uno B"], 
+    ["1999"], 
     [
       "Aisén Del General Carlos Ibáñez Del Campo",
       2
@@ -65,7 +64,7 @@
   ]
   ,
   [
-    ["Hoja dos"], 
+    ["2000"], 
     [
       "Aisén Del General Carlos Ibáñez Del Campo",
       6
@@ -125,6 +124,133 @@
     [ 
       "Valparaíso",
       35
+    ]
+  ]
+  ,
+  [
+    ["2001"], 
+    [
+      "Aisén Del General Carlos Ibáñez Del Campo",
+      5
+    ],
+    [
+      "Antofagasta",
+      52
+    ],
+    [
+      "Arica Y Parinacota",
+      63
+    ],
+    [
+      "Atacama",
+      80
+    ],
+    [
+      "Bío-bío",
+      30
+    ],
+    [
+      "Coquimbo",
+      67
+    ],
+    [
+      "La Araucanía",
+      70
+    ],
+    [
+      "Libertador General Bernardo O'higgins",
+      44
+    ],
+    [
+      "Los Lagos",
+      18
+    ],
+    [
+      "Los Ríos",
+      15
+    ],
+    [
+      "Magallanes Y Antártica Chilena",
+      17
+    ],
+    [
+      "Maule",
+      67
+    ],
+    [
+      "Región Metropolitana De Santiago",
+      78
+    ],
+    [
+      "Tarapacá",
+      60
+    ],
+    [ 
+      "Valparaíso",
+      45
+    ]
+  ],
+  [
+    ["2002"], 
+    [
+      "Aisén Del General Carlos Ibáñez Del Campo",
+      12
+    ],
+    [
+      "Antofagasta",
+      70
+    ],
+    [
+      "Arica Y Parinacota",
+      78
+    ],
+    [
+      "Atacama",
+      88
+    ],
+    [
+      "Bío-bío",
+      40
+    ],
+    [
+      "Coquimbo",
+      78
+    ],
+    [
+      "La Araucanía",
+      60
+    ],
+    [
+      "Libertador General Bernardo O'higgins",
+      50
+    ],
+    [
+      "Los Lagos",
+      25
+    ],
+    [
+      "Los Ríos",
+      12
+    ],
+    [
+      "Magallanes Y Antártica Chilena",
+      27
+    ],
+    [
+      "Maule",
+      53
+    ],
+    [
+      "Región Metropolitana De Santiago",
+      70
+    ],
+    [
+      "Tarapacá",
+      66
+    ],
+    [ 
+      "Valparaíso",
+      48
     ]
   ]
 ]
