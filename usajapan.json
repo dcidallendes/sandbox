@@ -1,0 +1,16 @@
+[
+        {
+          "title": "Japan",
+          "value": 126434964,
+          "label": "Japan",
+          "group": "A",
+          "color": "#0000FF"
+        },
+        {
+          "title": "United States",
+          "value": 318968000,
+          "label": "USA",
+          "group": "A",
+          "color": "#FF0000"
+        }
+      ]
