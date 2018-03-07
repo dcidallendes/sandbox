@@ -2,67 +2,83 @@
   [
     [
       "Indice de contaminación",
-      "1"
+      "1999",
+      "2000"
     ],
     [
       "Aisén Del General Carlos Ibáñez Del Campo",
+      2,
       2
     ],
     [
       "Antofagasta",
-      75
+      75,
+      78
     ],
     [
       "Arica Y Parinacota",
-      42
+      42,
+      44
     ],
     [
       "Atacama",
-      66
+      66,
+      73
     ],
     [
       "Bío-bío",
-      34
+      34,
+      36
     ],
     [
       "Coquimbo",
+      52,
       52
     ],
     [
       "La Araucanía",
-      46
+      46,
+      51
     ],
     [
       "Libertador General Bernardo O'higgins",
-      41
+      41,
+      40
     ],
     [
       "Los Lagos",
-      21
+      21,
+      19
     ],
     [
       "Los Ríos",
-      14
+      14,
+      15
     ],
     [
       "Magallanes Y Antártica Chilena",
-      7
+      7,
+      6
     ],
     [
       "Maule",
-      31
+      31,
+      37
     ],
     [
       "Región Metropolitana De Santiago",
-      68
+      68,
+      71
     ],
     [
       "Tarapacá",
-      39
+      39,
+      40
     ],
     [ 
       "Valparaíso",
-      37
+      37,
+      38
     ]
   ]
 ]
